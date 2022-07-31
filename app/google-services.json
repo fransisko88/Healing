@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608874307559",
+    "project_id": "healing-893eb",
+    "storage_bucket": "healing-893eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608874307559:android:2c95feb181c874855be742",
+        "android_client_info": {
+          "package_name": "com.example.healing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608874307559-ghm0qnh5lmfomfshmnboe3ar4666q73c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QbpoHhJRo0Q46_dqM6i2YXxM3-W59J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608874307559-ghm0qnh5lmfomfshmnboe3ar4666q73c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
